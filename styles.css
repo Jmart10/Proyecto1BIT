@@ -9,7 +9,6 @@ body{
     background: linear-gradient(to top, #2b6aa8, #e9ecef) no-repeat;
     background-size: cover;
     color: #333;
-    height: 100vh;
 }
 .navbar{
     position: relative; /* Necesario para posicionar el pseudo-elemento */
@@ -28,7 +27,6 @@ body{
 
 .container-section{
     display: flex;
-    height: 100%;
 }
 .table th, .table td{
     padding: 10px;
